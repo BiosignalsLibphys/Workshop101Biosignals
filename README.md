@@ -31,3 +31,5 @@
 15:30 - Segmentation and feature extraction from time series
 
 17:30 - End of the workshop
+
+HAVE A NICE WORKSHOP
