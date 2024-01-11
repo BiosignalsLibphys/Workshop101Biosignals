@@ -1,4 +1,4 @@
-# Welcome to the Workshop 101 Bioosignals
+# Welcome to the Workshop 101 Biosignals
 
 ## Program
 
