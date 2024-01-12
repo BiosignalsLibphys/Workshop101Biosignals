@@ -32,4 +32,4 @@
 
 17:30 - End of the workshop
 
-HAVE A NICE WORKSHOP
+HAVE A NICE WORKSHOP!
