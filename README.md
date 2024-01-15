@@ -34,4 +34,6 @@
 
 HAVE A NICE WORKSHOP!
 
-Hi I'm Sara!!
+Present yourself:
+
+I am Leonor
