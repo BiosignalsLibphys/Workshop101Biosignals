@@ -33,3 +33,5 @@
 17:30 - End of the workshop
 
 HAVE A NICE WORKSHOP!
+
+Present yourself:
