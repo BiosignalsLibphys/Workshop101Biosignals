@@ -23,29 +23,29 @@
 
 ## Biosignals collection tasks
 
-A. Speediance: EMG collection
+### A. Speediance: EMG collection
 
-A1. Task
-Perform 10 repetitions of the triceps extension with the rope exercise. Rest 1 min and repeat the task 2 more times.
+Task: perform 10 repetitions of the triceps extension with the rope exercise. Rest 1 min and repeat the task 2 more times
 
-A2. Sensors placement
-Place the electrodes on the triceps belly (and the reference on the elbow).
+Sensors placement: place the electrodes on the triceps belly (and the reference on the elbow)
 
-B. Gait analysis: ACC collection
 
-B1. Task
-Walk to end of the corridor and back 3 times. Rest 10 s. Do the same running.
 
-B2. Sensors placement
-Place the electrodes on the lateral malleus of the right ankle.
+### B. Gait analysis: ACC collection
 
-C. VR experience: ECG collection
+Task: walk to end of the corridor and back 3 times. Rest 10 s. Do the same running
 
-C1. Task
-Explore the International Space Station for 5 minutes.
+Sensors placement: place the electrodes on the lateral malleus of the right ankle
 
-C2. Sensors placement
-Place the electrodes on the chest.
+
+
+### C. VR experience: ECG collection
+
+Task: explore the International Space Station for 5 minutes
+
+Sensors placement: place the electrodes on the chest
+
+
 
 HAVE A NICE WORKSHOP!
 
