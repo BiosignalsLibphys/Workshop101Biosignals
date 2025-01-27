@@ -27,25 +27,25 @@ Welcome to the 101 Biosignals workshop! Please find below the timetable for toda
 
 ### A. Speediance: EMG collection
 
-Task: perform 10 repetitions of the triceps extension with the rope exercise. Rest 1 min and repeat the task 2 more times
+Task: perform 10 repetitions of the triceps extension with the rope exercise. Rest 1 min and repeat the task 2 more times.
 
-Sensors placement: place the electrodes on the triceps belly (and the reference on the elbow)
+Sensors placement: place the electrodes on the triceps belly (and the reference on the elbow).
 
 
 
 ### B. Gait analysis: ACC collection
 
-Task: walk to end of the corridor and back 3 times. Rest 10 s. Do the same running
+Task: walk to end of the corridor and back 3 times. Rest 10 s. Do the same running.
 
-Sensors placement: place the electrodes on the lateral malleus of the right ankle
+Sensors placement: place the electrodes on the lateral malleus of the right ankle.
 
 
 
 ### C. VR experience: ECG collection
 
-Task: explore the International Space Station for 5 minutes
+Task: explore the International Space Station for 5 minutes.
 
-Sensors placement: place the electrodes on the chest
+Sensors placement: place the electrodes on the chest.
 
 
 ### HAVE A NICE WORKSHOP! :) 
