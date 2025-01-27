@@ -8,7 +8,7 @@
 
 10h40 - Coding best practices
 
-11h00 - Biosignals collection task
+11h00 - Biosignals collection tasks
 
 12h30 - Lunch
 
@@ -20,6 +20,32 @@
 
 17h30 - End of the workshop
 
+
+## Biosignals collection tasks
+
+A. Speediance: EMG collection
+
+A1. Task
+Perform 10 repetitions of the triceps extension with the rope exercise. Rest 1 min and repeat the task 2 more times.
+
+A2. Sensors placement
+Place the electrodes on the triceps belly (and the reference on the elbow).
+
+B. Gait analysis: ACC collection
+
+B1. Task
+Walk to end of the corridor and back 3 times. Rest 10 s. Do the same running.
+
+B2. Sensors placement
+Place the electrodes on the lateral malleus of the right ankle.
+
+C. VR experience: ECG collection
+
+C1. Task
+Explore the International Space Station for 5 minutes.
+
+C2. Sensors placement
+Place the electrodes on the chest.
 
 HAVE A NICE WORKSHOP!
 
