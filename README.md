@@ -45,7 +45,7 @@ Sensors placement: place the electrodes on the lateral malleus of the right ankl
 
 Task: explore the International Space Station for 5 minutes.
 
-Sensors placement: place the electrodes on the chest.
+Sensors placement: place the electrodes on the chest according to the Einthoven's triangle.
 
 
 ### HAVE A NICE WORKSHOP! :) 
