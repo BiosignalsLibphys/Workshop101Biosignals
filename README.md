@@ -45,9 +45,9 @@ Task: explore the International Space Station for 5 minutes
 
 Sensors placement: place the electrodes on the chest
 
+_______________________________________________________________________________________________________
 
+HAVE A NICE WORKSHOP! :) 
 
-HAVE A NICE WORKSHOP!
-
-
+-------------------------------------------------------------------------------------------------------
 Present yourself:
