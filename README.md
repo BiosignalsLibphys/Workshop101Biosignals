@@ -1,6 +1,8 @@
-# Welcome to the Workshop 101 Biosignals
+# Workshop 101 Biosignals
 
-## Program
+Welcome to the 101 Biosignals workshop! Please find below the timetable for today and the tasks to be performed.
+
+## Timetable
 
 9h30 - Presentation of the LIBPhys-Biosignals group
 
