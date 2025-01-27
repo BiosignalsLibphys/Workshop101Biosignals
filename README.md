@@ -2,45 +2,26 @@
 
 ## Program
 
-**Day 15 (Monday)**
+9h30 - Presentation of the LIBPhys-Biosignals group
 
-9:30 - Presentation of the LIBPhys-Biosignals group
+10h00 - Setting up the software necessary for the workshop
 
-10:45 - Setting up the software necessary for the workshop
+10h40 - Coding best practices
 
-12:30 - Lunch
+11h00 - Biosignals collection task
 
-14:00 - Soma Sensing Experience
+12h30 - Lunch
 
-15:30 - Collection, storage, and organization of biosignals
+14h00 - Data curation
 
-17:30 - End of the first day
+14h30 - Biosignals's processing first steps
 
+15h00 - Coding tasks: processing, segmentation and features extraction
 
+17h30 - End of the workshop
 
-**Day 17 (Wednesday)**
-
-9:30 - Challenges in building code for processing
-
-10:45 - Challenges in processing and evaluating code with Unit Tests
-
-12:30 - Lunch
-
-14:00 - Data Analytics Research and Technology in Healthcare
-
-15:30 - Segmentation and feature extraction from time series
-
-17:30 - End of the workshop
 
 HAVE A NICE WORKSHOP!
 
 
 Present yourself:
-
-I am Leonor
-
-I am Sara
-
-I am Márcia
-
-I am Carolina 
