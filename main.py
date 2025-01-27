@@ -14,3 +14,14 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+import numpy as np
+
+path = '/Users/luissilva/PycharmProjects/Workshop101Biosignals/G1/G1_task_emg_acc_serie2.txt'
+data = np.loadtxt(path)
+emg = data[:, 1]
+acc = data[:, 3]
+
+# Filter
+
+plt.plot(acc)
