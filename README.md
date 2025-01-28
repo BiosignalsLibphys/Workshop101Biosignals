@@ -16,7 +16,7 @@ Welcome to the 101 Biosignals workshop! Please find below the timetable for toda
 
 14h00 - Data curation
 
-14h30 - Biosignals's processing first steps
+14h30 - Biosignals processing first steps
 
 15h00 - Coding tasks: processing, segmentation and features extraction
 
